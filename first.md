@@ -1,3 +1,5 @@
+![alt tag](https://raw.githubusercontent.com/choyongjoon/meum_apply/master/meum_screenshot_wide_2014-06-01.png)
+
 안녕하세요. ['믐'](http://meum.herokuapp.com)을 만드는 조용준입니다.
 
 ['믐'](http://meum.herokuapp.com)은 좋아하는 앨범을 자랑하고 싶어서 만들고 있는 웹서비스입니다.
