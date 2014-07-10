@@ -1,4 +1,4 @@
-믐 Change Log 2014.07.09
+믐 Change Log 2014.07.10
 
 ### 새로운 기능 :gift:
 - [앨범 페이지에서 바로 글쓰기](http://meum.herokuapp.com/album/LQ8716l#write)
