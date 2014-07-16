@@ -19,3 +19,5 @@
 
 :blush:
 초대장 보내기 기능을 준비하고 있습니다.
+
+[지난 changelog 보기](https://github.com/choyongjoon/meum_apply/blob/master/changelog_20140626.md)
